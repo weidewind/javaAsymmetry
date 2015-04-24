@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/J2SE-1.5"/>
+	<classpathentry kind="lib" path="C:/Users/weidewind/Programs/biojava-legacy-1.8.2/biojava-legacy-1.8.2/alignment-1.8.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/weidewind/Programs/biojava-legacy-1.8.2/biojava-legacy-1.8.2/alignment-1.8.2-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/weidewind/Programs/biojava-legacy-1.8.2/biojava-legacy-1.8.2/alignment-1.8.2-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/weidewind/Programs/biojava-legacy-1.8.2/biojava-legacy-1.8.2/biosql-1.8.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/weidewind/Programs/biojava-legacy-1.8.2/biojava-legacy-1.8.2/biosql-1.8.2-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/weidewind/Programs/biojava-legacy-1.8.2/biojava-legacy-1.8.2/biosql-1.8.2-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/weidewind/Programs/biojava-legacy-1.8.2/biojava-legacy-1.8.2/blast-1.8.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/weidewind/Programs/biojava-legacy-1.8.2/biojava-legacy-1.8.2/blast-1.8.2-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/weidewind/Programs/biojava-legacy-1.8.2/biojava-legacy-1.8.2/blast-1.8.2-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/weidewind/Programs/biojava-legacy-1.8.2/biojava-legacy-1.8.2/bytecode-1.8.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/weidewind/Programs/biojava-legacy-1.8.2/biojava-legacy-1.8.2/bytecode-1.8.2-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/weidewind/Programs/biojava-legacy-1.8.2/biojava-legacy-1.8.2/bytecode-1.8.2-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/weidewind/Programs/biojava-legacy-1.8.2/biojava-legacy-1.8.2/core-1.8.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/weidewind/Programs/biojava-legacy-1.8.2/biojava-legacy-1.8.2/core-1.8.2-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/weidewind/Programs/biojava-legacy-1.8.2/biojava-legacy-1.8.2/core-1.8.2-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/weidewind/Programs/biojava-legacy-1.8.2/biojava-legacy-1.8.2/das-1.8.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/weidewind/Programs/biojava-legacy-1.8.2/biojava-legacy-1.8.2/das-1.8.2-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/weidewind/Programs/biojava-legacy-1.8.2/biojava-legacy-1.8.2/das-1.8.2-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/weidewind/Programs/biojava-legacy-1.8.2/biojava-legacy-1.8.2/gui-1.8.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/weidewind/Programs/biojava-legacy-1.8.2/biojava-legacy-1.8.2/gui-1.8.2-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/weidewind/Programs/biojava-legacy-1.8.2/biojava-legacy-1.8.2/gui-1.8.2-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/weidewind/Programs/biojava-legacy-1.8.2/biojava-legacy-1.8.2/phylo-1.8.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/weidewind/Programs/biojava-legacy-1.8.2/biojava-legacy-1.8.2/phylo-1.8.2-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/weidewind/Programs/biojava-legacy-1.8.2/biojava-legacy-1.8.2/phylo-1.8.2-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/weidewind/Programs/biojava-legacy-1.8.2/biojava-legacy-1.8.2/sequencing-1.8.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/weidewind/Programs/biojava-legacy-1.8.2/biojava-legacy-1.8.2/sequencing-1.8.2-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/weidewind/Programs/biojava-legacy-1.8.2/biojava-legacy-1.8.2/sequencing-1.8.2-sources.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
